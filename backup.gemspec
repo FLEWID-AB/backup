@@ -43,7 +43,7 @@ Gem::Specification.new do |gem|
   gem.add_dependency "flowdock", "0.4.0"
   gem.add_dependency "dogapi", "1.11.0"
   gem.add_dependency "aws-ses", "0.5.0"
-  gem.add_dependency "qiniu", "~> 6.5"
+  gem.add_dependency "qiniu", "~> 6.9"
   gem.add_dependency "nokogiri", "~> 1.7", ">= 1.7.1"
 
   gem.add_development_dependency "rubocop", "0.48.1"
